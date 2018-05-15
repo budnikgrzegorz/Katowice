@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class SeniorComponent implements OnInit {
 
   senior: any = '/assets/imges/seniorzy.jpg';
-
+seniorzy: any;
   constructor() { }
 
   ngOnInit() {

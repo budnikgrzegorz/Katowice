@@ -1,7 +1,8 @@
-div.fc {
-  width: 800px;
-  margin: 0 auto;
-  background: black;
-  padding: 7px;
-text-align: center;
+h1 {
+  font-size: 5.9vh;
+  padding: 10px;
+
+}
+h2 {
+  font-size: 3.0vh;
 }
